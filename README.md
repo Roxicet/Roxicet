@@ -4,7 +4,7 @@
      </a>
  <p><strong>not my main github but i wanted the username</strong></p>
   <p><strong></strong></p>
-  <p><strong>↓ main github stats ↓</strong></p>
+  			<p><strong>↓ main github stats ↓</strong></p>
 
 <p align="center">
 	<tr>
