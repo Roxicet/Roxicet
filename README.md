@@ -2,7 +2,7 @@
   <a href="https://github.com/ZtheTwink">
     <img src="https://discord.c99.nl/widget/theme-4/424914985466986498.png" />
      </a>
- <p><strong>not my main github but i wanted the username</strong></p>
+ <p><strong>not my main github but i wanted the username before someone else claimed it</strong></p>
   <p><strong></strong></p>
   			<p><strong>↓ main github stats ↓</strong></p>
 
